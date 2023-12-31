@@ -7,7 +7,9 @@ How to play:
    4. You will be shown the correct results. You may compare them with yours.
 
 Important Notes:
-   1. There are only 71 characters in the game. This includes the base kana and the one with a diacritical mark.
+   1. There are only 68 characters in the game.
+   1.1. This includes the base kana and the one with a diacritical mark.
+   1.2. 3 Kana have the same romanised sound with some others, thus 2 correct results will be shown for them.
    2. The game is still in early alpha and is currently privated. It will be released soon.
    3. The game will be very minimalistic during beta releases. All suggestions are welcome!
 
