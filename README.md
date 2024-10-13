@@ -1,3 +1,5 @@
+IMPORTANT: This project has been dropped out of support for the forseeable future. The application still works and can be compiled in Linux, Windows and probably Mac (Haven't tested it).
+
 Welcome to "Lets Practice The Kana", by Spokazzoni.
 
 This was made as a project to help myself become better at the Japanese Alphabet. I thought that it might be a good idea to share the project with other aspiring learners as well. I am pleased to announce that I have decided to do exactly that. This is a minigame that randomly picks some Romaji. It will wait for confirmation and then will display the results in kana (more on that later). It is a good way to practice writing or memorising the Japanese kana.
